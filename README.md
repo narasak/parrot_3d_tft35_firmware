@@ -1,11 +1,13 @@
 <!-- omit in toc -->
-# BigTreeTech Touchscreen Firmware
+# BigTreeTech Touchscreen Firmware for Parrot 3D Printer
 ![GitHub](https://img.shields.io/github/license/bigtreetech/bigtreetech-TouchScreenFirmware.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/bigtreetech/bigtreetech-TouchScreenFirmware.svg)](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/graphs/contributors)
 ![GitHub Release Date](https://img.shields.io/github/release-date/bigtreetech/bigtreetech-TouchScreenFirmware.svg)
 [![Build Status](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/workflows/Build%20Test/badge.svg?branch=master)](https://github.com/bigtreetech/bigtreetech-TouchScreenFirmware/actions)
 
-Firmware for BigTreeTech's dual-mode touchscreen 3D printer controllers
+![Parrot 3D Logo](https://github.com/narasak/parrot_3d/blob/master/img/Parrot_3D_Logo.svg?raw=true)
+
+This is Firmware for BigTreeTech's dual-mode touchscreen for Parrot 3D printer
 
 <img width=500 src="https://user-images.githubusercontent.com/13375512/76691608-ae1b8780-6609-11ea-9ee1-421bcf09e538.png">
 
@@ -22,10 +24,10 @@ Firmware for BigTreeTech's dual-mode touchscreen 3D printer controllers
 
 ## Menus and Themes
 
-| Classic Menu &amp; Icon Theme |  Unified Menu &amp; Material Icon Theme |
-:--------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/54511555/77016371-ad9a2e00-6934-11ea-9e57-23c2ab2cad58.png) | ![](https://user-images.githubusercontent.com/54511555/77016415-d3273780-6934-11ea-8c61-a184fa55b420.png)
-Use firmware, icons, and fonts from the [`Copy to SD Card root directory to update`](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/tree/master/Copy%20to%20SD%20Card%20root%20directory%20to%20update) folder | Use firmware, icons, and fonts from the [`Copy to SD Card root directory to update - Unified Menu Material theme`](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/tree/master/Copy%20to%20SD%20Card%20root%20directory%20to%20update%20-%20Unified%20Menu%20Material%20theme) folder
+| Unified Menu &amp; Material Icon Theme |
+:--------------------------:|
+|![](https://user-images.githubusercontent.com/54511555/77016415-d3273780-6934-11ea-8c61-a184fa55b420.png)
+|Use firmware, icons, and fonts from the [`copy_to_sd_card_root_directory_to_update`](https://github.com/narasak/parrot_3d_tft35_firmware/tree/master/copy_to_sd_card_root_directory_to_update) folder
 
 ## Update TFT Firmware
 
